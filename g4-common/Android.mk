@@ -43,8 +43,8 @@ include $(BUILD_PREBUILT)
 include $(CLEAR_VARS)
 LOCAL_MODULE := libloc_ds_api
 LOCAL_MODULE_OWNER := lge
-LOCAL_SRC_FILES_64 := proprietary/lib64/libloc_ds_api.so
-LOCAL_SRC_FILES_32 := proprietary/lib/libloc_ds_api.so
+LOCAL_SRC_FILES_64 := proprietary/vendor/lib64/libloc_ds_api.so
+LOCAL_SRC_FILES_32 := proprietary/vendor/lib/libloc_ds_api.so
 LOCAL_MULTILIB := both
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_CLASS := SHARED_LIBRARIES
