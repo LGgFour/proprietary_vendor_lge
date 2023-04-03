@@ -70,8 +70,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4-common/proprietary/lib/liblgmabl.so:$(TARGET_COPY_OUT_SYSTEM)/lib/liblgmabl.so \
     vendor/lge/g4-common/proprietary/lib/libmdmcutback.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmdmcutback.so \
     vendor/lge/g4-common/proprietary/lib/libmotext_inf.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmotext_inf.so \
-    vendor/lge/g4-common/proprietary/lib/libprotobuf-cpp-full.so:$(TARGET_COPY_OUT_VENDOR)/lib/libprotobuf-cpp-full-29a.so \
-    vendor/lge/g4-common/proprietary/lib/libprotobuf-cpp-lite.so:$(TARGET_COPY_OUT_VENDOR)/lib/libprotobuf-cpp-lite-29a.so \
+    vendor/lge/g4-common/proprietary/lib/libprotobuf-cpp-full.so:$(TARGET_COPY_OUT_VENDOR)/lib/libprotobuf-cpp-full.so \
+    vendor/lge/g4-common/proprietary/lib/libprotobuf-cpp-lite.so:$(TARGET_COPY_OUT_VENDOR)/lib/libprotobuf-cpp-lite.so \
     vendor/lge/g4-common/proprietary/lib/libqmimotext.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libqmimotext.so \
     vendor/lge/g4-common/proprietary/lib/libuicc.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libuicc.so \
     vendor/lge/g4-common/proprietary/lib/libvss_common_core.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvss_common_core.so \
@@ -91,8 +91,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4-common/proprietary/lib64/liblgmabl.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/liblgmabl.so \
     vendor/lge/g4-common/proprietary/lib64/libmdmcutback.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmdmcutback.so \
     vendor/lge/g4-common/proprietary/lib64/libmotext_inf.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmotext_inf.so \
-    vendor/lge/g4-common/proprietary/lib64/libprotobuf-cpp-full.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libprotobuf-cpp-full-29a.so \
-    vendor/lge/g4-common/proprietary/lib64/libprotobuf-cpp-lite.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libprotobuf-cpp-lite-29a.so \
+    vendor/lge/g4-common/proprietary/lib64/libprotobuf-cpp-full.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libprotobuf-cpp-full.so \
+    vendor/lge/g4-common/proprietary/lib64/libprotobuf-cpp-lite.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libprotobuf-cpp-lite.so \
     vendor/lge/g4-common/proprietary/lib64/libqdMetaData.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libqdMetaData.so \
     vendor/lge/g4-common/proprietary/lib64/libqmimotext.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libqmimotext.so \
     vendor/lge/g4-common/proprietary/lib64/libuicc.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libuicc.so \
